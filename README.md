@@ -1,14 +1,7 @@
-## [`6oo`](index.html) [mural](https://webmural.com/6oo)
+## [___ mural monte](https://webmural.com/___)
 
-### [color](6oo.css) [morf](https://webmural.com/deev)
+### [CSS](___.css)
 
-* `border-radius`
-* `coral` 
-* `gradient`
-* `hue-rotate`
-* `transition: 600ms`
-* `shadow`
-
-### [you goo](goo.css)
-
-`flex` `nav` with [gooey shadow](https://webmural.com/6oo)
+* `:first-child`
+* :paw_prints:
+* `:last-child`
